@@ -1,0 +1,11 @@
+pyarrow==2.0.0
+spacy==2.3.5
+langdetect==1.0.8
+fasttext==0.9.2
+umap==0.1.1
+umap-learn==0.4.6
+hdbscan==0.8.26
+sklearn==0.22.1
+nltk==3.4.5
+seaborn==0.10.0
+pandas==1.0.1
